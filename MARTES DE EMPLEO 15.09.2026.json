@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 61,
+    "left": 0,
+    "width": 816,
+    "height": 1088,
+    "isRotated": false,
+    "originalWidth": 816,
+    "originalHeight": 1210
+  },
+  "imagePath": "image-targets/MARTES DE EMPLEO 15.09.2026_luminance.png",
+  "metadata": null,
+  "name": "MARTES DE EMPLEO 15.09.2026",
+  "resources": {
+    "originalImage": "MARTES DE EMPLEO 15.09.2026_original.png",
+    "croppedImage": "MARTES DE EMPLEO 15.09.2026_cropped.png",
+    "thumbnailImage": "MARTES DE EMPLEO 15.09.2026_thumbnail.png",
+    "luminanceImage": "MARTES DE EMPLEO 15.09.2026_luminance.png"
+  },
+  "created": 1792424818702,
+  "updated": 1792424818702
+}
